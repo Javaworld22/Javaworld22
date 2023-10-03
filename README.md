@@ -1,12 +1,18 @@
 ### Javaworld22/README.md
 ### Hi there 👋
 
-🔭 I'm A Mobile Developer and a strong Java backend Engineer 
+🔭 I'm A Mobile Developer and a strong Java backend Engineer
+
 👯 I thrive on the intersection of technology and human connection using AI.
+
 🌱 Paving my way to Full-stack development.
+
 😄 Pronouns: He/Him
+
 💬 I am also an IoT Engineer, ask me anything on IoT 
+
 📫 How to reach me: www.linkedin.com/in/iheruome-michael-316b43117
+
 
 
 
