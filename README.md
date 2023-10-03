@@ -11,7 +11,7 @@
 
 💬 I am also an IoT Engineer, ask me anything on IoT 
 
-📫 How to reach me: www.linkedin.com/in/iheruome-michael-316b43117
+📫 Link to reach me is www.linkedin.com/in/iheruome-michael-316b43117
 
 
 
